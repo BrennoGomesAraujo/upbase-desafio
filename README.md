@@ -52,7 +52,7 @@ Demonstrar habilidades em desenvolvimento frontend, seguindo um protótipo do Fi
 
 ```bash
 # Clone o repositório
-git clone 
+git clone https://github.com/BrennoGomesAraujo/upbase-desafio
 
 # Entre na pasta do projeto
 cd upbase-desafio
